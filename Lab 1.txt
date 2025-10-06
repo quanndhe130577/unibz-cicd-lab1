@@ -1,0 +1,12 @@
+1. Install GIT (see slides)
+2. Learn the commands
+git clone
+git add
+git commit
+git update
+git push
+git pull
+3. Install Docker (see slides)
+4. Go https://docs.docker.com/get-started/workshop/ and study all parts of:
+	Docker concepts
+	Docker workshop
